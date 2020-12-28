@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PetrolPrice</string>
+    <string name="selected_item">Selected item:</string>
+
+    <!--<string-array name="PetrolPumps">
+        <item>HP Petrol &amp; Diesel Pump</item>
+        <item>Indian Oil Petrol Pump</item>
+        <item>Bharat Petroleum Petrol Pump</item>
+        <item> Gaikwad Petrol Pump</item>-->
+
+    <string-array name="PetrolPumps">
+        <item>Mauli Petroleum</item>
+        <item>HPCL Pump</item>
+        <item>Vardhaman Petrol Depot</item>
+        <item>Gaikwad Pump</item>
+
+
+
+
+    </string-array>
+
+</resources>

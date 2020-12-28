@@ -1,0 +1,9 @@
+
+ukotlin:S100å"XRename function "InPrintReceiptUtil" to match the regular expression ^[a-z][a-zA-Z0-9]*$(Ä±¼¤ùÿÿÿÿ
+jkotlin:S117ð"MRename this parameter to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(Íæ§‹ùÿÿÿÿ
+Nkotlin:S1481›"0Remove this unused "qtyFormated" local variable.(Ý’É‹ùÿÿÿÿ
+Fkotlin:S1481õ"-Remove this unused "inputArr" local variable.(…Õç²
+<kotlin:S125Ã"Remove this commented out code.(Éðø²úÿÿÿÿ
+7kotlin:S125¬"Remove this commented out code.(œçê‹
+<kotlin:S125 "Remove this commented out code.(É…ÖŽúÿÿÿÿ
+jkotlin:S117ð"MRename this parameter to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(Íæ§‹ùÿÿÿÿ
